@@ -1,1 +1,8 @@
 Thsi is from git hub...
+
+//Userful commands for github
+ 1. alias m="git checkout master"
+ 2. git push origin --delete <branch name>
+ 3. git stash
+ 4. git stash pop (to pop the stash)
+ 5. git stash --include-untracked (all file will be stash) **
